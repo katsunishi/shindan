@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script>
+      (function () {
+        var repoBase = "/shindan";
+        var path = window.location.pathname.replace(repoBase, "") || "/";
+        var query = window.location.search ? window.location.search.slice(1) : "";
+        var hash = window.location.hash ? window.location.hash.slice(1) : "";
+        var target =
+          window.location.origin +
+          repoBase +
+          "/?p=" +
+          encodeURIComponent(path) +
+          (query ? "&q=" + encodeURIComponent(query) : "") +
+          (hash ? "&h=" + encodeURIComponent(hash) : "");
+
+        window.location.replace(target);
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

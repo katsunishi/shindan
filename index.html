@@ -11,9 +11,22 @@
       name="description"
       content="音楽の感性からタイプを診断する Myu の音楽MBTI診断ツール"
     />
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        var path = params.get("p");
+        if (!path) return;
+
+        var query = params.get("q");
+        var hash = params.get("h");
+        var nextUrl = path + (query ? "?" + query : "") + (hash ? "#" + hash : "");
+
+        window.history.replaceState(null, "", nextUrl);
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
-  </html>
+</html>
