@@ -13,13 +13,18 @@
     />
     <script>
       (function () {
+        var repoBase = "/shindan";
         var params = new URLSearchParams(window.location.search);
         var path = params.get("p");
         if (!path) return;
 
         var query = params.get("q");
         var hash = params.get("h");
-        var nextUrl = path + (query ? "?" + query : "") + (hash ? "#" + hash : "");
+        var nextUrl =
+          repoBase +
+          path +
+          (query ? "?" + query : "") +
+          (hash ? "#" + hash : "");
 
         window.history.replaceState(null, "", nextUrl);
       })();
