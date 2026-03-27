@@ -1,0 +1,610 @@
+{
+  "INTJ": [
+    {
+      "artist": "Radiohead",
+      "title": "Everything In Its Right Place",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/fb/81/45fb8153-21f0-8a66-ba39-4bbd66a12be0/191404116654.png/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/78/54/297854f0-cd9f-a93b-df3c-4c61de24e1b9/mzaf_7268524273907809295.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Alberto Balsalm",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/e2/11/28e211f0-369c-891e-df54-7d12742f2bbb/artwork.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e8/87/4e/e8874efc-7bcc-b76d-f321-969ab391b125/mzaf_10138579126919704933.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Time",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/76/b0/3e76b0e3-762b-2286-a019-8afb19cee541/886445635829.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/8b/ed/da8bed67-d37d-eb79-d045-ab9b2770d945/mzaf_17679948615611584950.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Cornelius",
+      "title": "Point of View Point",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7a/d6/0c/7ad60c65-ead2-0786-2fb0-729c3e27a2f1/190295381745.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/56/9a/e5569aed-c591-7cbd-6e17-95c64c8ce30e/mzaf_5057428434128339528.plus.aac.p.m4a"
+    },
+    {
+      "artist": "サカナクション",
+      "title": "ユリイカ",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/ab/69/83ab69ab-265b-d5c5-cca3-3ad62d4e8be2/VICL-65194.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/8c/d1/668cd19a-f38b-5e93-8dd5-e2808638e6a2/mzaf_426732189146738228.plus.aac.p.m4a"
+    },
+    {
+      "artist": "millennium parade",
+      "title": "Fly with me",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/44/2a/12442a18-ca4f-3dda-dd94-9711c9d12051/VTZL-174.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/8b/4c/5e8b4c99-3c9d-d331-2f2b-7f4b4727ab72/mzaf_5893623214516957016.plus.aac.p.m4a"
+    }
+  ],
+  "INTP": [
+    {
+      "artist": "Aphex Twin",
+      "title": "minipops 67 [120.2][source field mix]",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/eb/60/04/eb600461-6436-e106-679c-aa838b4ac819/4523132113449.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5b/b4/e3/5bb4e317-ebfe-6be0-2148-100a3a0beba5/mzaf_11042995558809794492.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Smile",
+      "title": "The Smoke",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/f4/e5/5ef4e525-68b6-0ac2-3bcc-a2670ab21bb7/191404119655.png/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/32/b3/1c/32b31cff-4f01-a68f-1b76-34f01c26f1c3/mzaf_295935180808269040.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Steve Reich",
+      "title": "Music for 18 Musicians",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/f3/1f/3ff31f10-a505-440f-4639-1d5640b529e5/00042282141729.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/91/a7/1391a757-6169-c1bc-004b-632d1343d601/mzaf_10681049488023628079.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Cornelius",
+      "title": "Drop",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7a/d6/0c/7ad60c65-ead2-0786-2fb0-729c3e27a2f1/190295381745.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/24/a1/9c24a1f1-ba5f-2be0-8d60-bcc8620d232c/mzaf_6563348942335851486.plus.aac.p.m4a"
+    },
+    {
+      "artist": "坂本龍一",
+      "title": "ZURE",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/61/47/6b/61476b07-540c-39b8-a7fd-d01da087a2a6/ANTCD-21497.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/cb/dd/81cbddcc-ca15-0c84-30f8-e64ecba5ac90/mzaf_13776737983970749514.plus.aac.p.m4a"
+    },
+    {
+      "artist": "ZAZEN BOYS",
+      "title": "HONNOJI",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/79/22/32/792232b1-28b3-936d-08b6-95c00cd22196/4580789508769.png/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/54/e2/18/54e218df-58e1-6ed7-1d69-f41a008f4756/mzaf_8697021977544589732.plus.aac.p.m4a"
+    }
+  ],
+  "ENTJ": [
+    {
+      "artist": "Kanye West",
+      "title": "POWER",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/0b/31/0a0b31cc-077c-31bf-e7fe-612191774948/10UMGIM30072.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/bc/2a/1ebc2ac8-e91c-9b9c-8f23-ba8dde8da35b/mzaf_14277297399106375720.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Giorgio by Moroder",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/0a/05/7c/0a057ce0-1933-4ee8-505e-c75754a314b3/dj.rlzzqodr.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/90/a1/5c90a1e3-f427-222a-84f1-2208527df51f/mzaf_8898957670472845614.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/5b/05/e05b0511-17ce-9e75-dc44-53989da41bd2/Cover.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f4/a9/5e/f4a95ef9-c750-d7bc-519d-c419a5925f77/mzaf_11816383521264818426.plus.aac.p.m4a"
+    },
+    {
+      "artist": "YMO",
+      "title": "Rydeen",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/cd/17/1dcd1769-0e41-b0fa-c6a5-ceff198c9517/jacket_MHCL20103B00Z_550.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/47/f1/1247f165-592e-de2f-feb8-bf6cddf79d2f/mzaf_14354327828852375456.plus.aac.p.m4a"
+    },
+    {
+      "artist": "King Gnu",
+      "title": "一途",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/d7/73/64d77339-d682-5903-611f-cf59ab928750/4547366542400.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/16/d0/4c/16d04c0d-5f12-7175-0500-89597e57d382/mzaf_13675840853692910453.plus.aac.p.m4a"
+    },
+    {
+      "artist": "椎名林檎",
+      "title": "丸ノ内サディスティック",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/da/b4/bddab4d2-176e-6438-76dc-54bd4eac3914/18UMGIM22257.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b3/bb/a4/b3bba4f2-4b41-f4da-cc3d-b782edfef4ea/mzaf_10965344375697232128.plus.aac.p.m4a"
+    }
+  ],
+  "ENTP": [
+    {
+      "artist": "Aphex Twin",
+      "title": "minipops 67 [120.2][source field mix]",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/eb/60/04/eb600461-6436-e106-679c-aa838b4ac819/4523132113449.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5b/b4/e3/5bb4e317-ebfe-6be0-2148-100a3a0beba5/mzaf_11042995558809794492.plus.aac.p.m4a"
+    },
+    {
+      "artist": "100 gecs",
+      "title": "money machine",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/15/71/e015718f-826f-3968-2d1c-e766cf30947f/075679826060.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/07/09/ef/0709ef82-9c32-9f77-ee95-df43c32ab92c/mzaf_7827850772499171841.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Idioteque",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/0b/43/610b43a9-eb1c-dad1-d9aa-fa1f3ac55040/5056407969377.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/1c/43/e3/1c43e324-d9e3-d304-fddb-b3e9744ed69b/mzaf_12629352213014344414.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Cornelius",
+      "title": "Star Fruits Surf Rider",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/9f/5f/2b/mzi.pkldamug.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/d2/d2/28d2d238-cd70-d0e7-05a0-abfa64a19402/mzaf_452984635015453823.plus.aac.p.m4a"
+    },
+    {
+      "artist": "パソコン音楽クラブ",
+      "title": "Inner Blue",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/b2/ab/ceb2ab28-e6a7-342a-6881-e31e818209b5/PSCM001_jkt.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d6/d8/2b/d6d82baf-2c50-4ce3-9fb5-ae1a959cb4a4/mzaf_5726309135138413238.plus.aac.p.m4a"
+    },
+    {
+      "artist": "長谷川白紙",
+      "title": "草木",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e1/56/65/e1566581-2611-49b8-3c63-eac89f265648/dj.mbygbxbj.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5d/2a/c8/5d2ac850-6cca-0ebe-34e6-6a41098dd53e/mzaf_18135916850044878167.plus.aac.p.m4a"
+    }
+  ],
+  "ISTJ": [
+    {
+      "artist": "Steely Dan",
+      "title": "Aja",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/61/84/5f618416-cea0-be10-a104-590b18605694/06UMGIM12631.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/44/d9/6b44d9f6-822f-9d46-a332-69f98a597d65/mzaf_3553288191081073178.plus.aac.p.m4a"
+    },
+    {
+      "artist": "J.S. Bach",
+      "title": "The Well-Tempered Clavier",
+      "image_url": null,
+      "preview_url": null
+    },
+    {
+      "artist": "Kraftwerk",
+      "title": "The Model",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f2/d8/d8/mzi.cacqljop.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/70/f6/6b/mzm.vfogvqgg.aac.p.m4a"
+    },
+    {
+      "artist": "山下達郎",
+      "title": "SPARKLE",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d2/ea/0a/d2ea0aac-59a4-1267-6920-f81ffb102f02/AGIP-3667-3000x3000.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/a3/b4/43a3b419-6e2c-bf84-97bd-212b45aeaf44/mzaf_15640208180248332329.plus.aac.p.m4a"
+    },
+    {
+      "artist": "坂本龍一",
+      "title": "Merry Christmas Mr. Lawrence",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/f3/f9/6ff3f97f-e73c-34f3-a43f-45e894235de4/11725000.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/cb/9f/b1cb9f2f-044a-c484-67fb-ec2f999848a7/mzaf_7427286531836844374.plus.aac.p.m4a"
+    },
+    {
+      "artist": "サカナクション",
+      "title": "ミュージック",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/27/21/87/2721877e-3adb-42e9-2cc9-52f77331bb39/VICL-36754.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/44/06/114406dd-b6fd-1cd4-d8ff-b96429f5c214/mzaf_59772360882030454.plus.aac.p.m4a"
+    }
+  ],
+  "ISTP": [
+    {
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bf/a6/1b/bfa61b15-a797-ec2d-ef44-bf9bfb9fab10/mzaf_9377760837375603436.plus.aac.p.m4a"
+    },
+    {
+      "artist": "J Dilla",
+      "title": "Don't Cry",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/d3/c5/63d3c537-ac30-86e7-8e69-8a03a5346209/792.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2c/c0/a6/2cc0a6f6-0904-3380-d658-2c92b21f6363/mzaf_1634889763056581617.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/07/1d/88071df2-b7b3-dca3-0cb1-e4cc6b036674/mzaf_1785616371015459389.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Cornelius",
+      "title": "Drop",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7a/d6/0c/7ad60c65-ead2-0786-2fb0-729c3e27a2f1/190295381745.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/24/a1/9c24a1f1-ba5f-2be0-8d60-bcc8620d232c/mzaf_6563348942335851486.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Nujabes",
+      "title": "Luv(sic) Part 2",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cf/cb/2b/cfcb2b72-c7a5-b4af-e227-46d341a3e3f2/Luv_sic_Hexjaket.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/f6/6f/d3f66feb-3c55-3194-7ddf-6c81cfd24e2e/mzaf_5311300447719970186.plus.aac.p.m4a"
+    },
+    {
+      "artist": "ZAZEN BOYS",
+      "title": "Honnoji",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/79/22/32/792232b1-28b3-936d-08b6-95c00cd22196/4580789508769.png/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/54/e2/18/54e218df-58e1-6ed7-1d69-f41a008f4756/mzaf_8697021977544589732.plus.aac.p.m4a"
+    }
+  ],
+  "ESTJ": [
+    {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/e1/67/03e167d6-ee05-eb32-55e9-c5040f55a8bf/20UMGIM21166.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/44/0d/1d440dbc-9832-08e6-080d-aa1e1bacf40c/mzaf_3600642016947675074.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d4/d3/1e/d4d31eb4-7405-b806-8346-3c52ad5b4cf4/mzaf_8095545455942962509.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Don't Start Now",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/3d/34/243d3413-a0fc-b229-f54a-1715ebd3a9ca/mzaf_11578996572221800393.plus.aac.p.m4a"
+    },
+    {
+      "artist": "YOASOBI",
+      "title": "アイドル",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/db/16/f0db16be-457e-f10f-98b6-f30b11de34e4/mzaf_5189430943078523093.plus.aac.p.m4a"
+    },
+    {
+      "artist": "宇多田ヒカル",
+      "title": "One Last Kiss",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/e9/a2/0ae9a2d9-3276-825b-cc16-ca494011531c/24UMGIM13711.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/dd/77/bfdd7768-60c4-fb14-9b6e-9faffee9bf37/mzaf_10150445025855385740.plus.aac.p.m4a"
+    },
+    {
+      "artist": "星野源",
+      "title": "恋",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/a2/fd/bda2fd49-c3cc-af75-d435-9d1e57de5759/VEATP-33775.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ce/63/46/ce63465e-d75b-7cd4-0808-0bea84875ebf/mzaf_354710301589870496.plus.aac.p.m4a"
+    }
+  ],
+  "ESTP": [
+    {
+      "artist": "The Chemical Brothers",
+      "title": "Hey Boy Hey Girl",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/23/d9/3023d9d2-f5de-2711-8bb6-5febff1a7baa/00724384761059.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/3f/69/6c3f691b-b341-6c02-7c48-c8e7adb094c4/mzaf_7667070743965729140.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Bangarang",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/9a/ec/669aec80-22b5-4284-fe7c-2bc187bbde50/70e72dc2-b605-4924-9501-60b7358362f2.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fd/d5/5d/fdd55d40-c752-e7b3-9c8b-9fcd03efe696/mzaf_11935793166520939338.plus.aac.p.m4a"
+    },
+    {
+      "artist": "AC/DC",
+      "title": "Back In Black",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b5/14/aa/b514aa08-4772-93db-c69f-420fbe0bb24c/mzaf_17779796508174317776.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Vaundy",
+      "title": "怪獣の花唄",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/89/00/09890002-b2de-3637-39b2-f6c2d34d0e93/197189854859.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/25/9c/55259cca-cefc-96d8-a72e-5d9998679324/mzaf_4745698241765053590.plus.aac.p.m4a"
+    },
+    {
+      "artist": "ELLEGARDEN",
+      "title": "Space Sonic",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/79/4c/ad794c1f-3b0e-4afc-7c8d-d12b79addbf3/mzm.mvmlfdmr.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/64/29/d4642914-6e2a-18ed-c604-d39218044a33/mzaf_7118730144595657407.plus.aac.p.m4a"
+    },
+    {
+      "artist": "BAD HOP",
+      "title": "Kawasaki Drift",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/18/e9/3618e9aa-c284-4487-811d-f483909c46a9/5021732380937.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/6f/4d/436f4dc9-7d30-58e5-0bfa-1f544034ac0e/mzaf_7039097705430609289.plus.aac.p.m4a"
+    }
+  ],
+  "INFJ": [
+    {
+      "artist": "Radiohead",
+      "title": "Pyramid Song",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/15/8b/cf/158bcf1c-6196-c858-eb5d-1378dc6e3bbd/0746935700133_cover.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/34/1e/58341edd-8dd8-d053-b2bd-11068d5337fe/mzaf_11739274475245594486.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Sigur Rós",
+      "title": "Hoppípolla",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/17/b6/3017b696-807c-a886-c90b-458da38289f7/5060122335805_cover.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/78/c9/4078c904-b4ce-03d9-82db-c93c13d5ee78/mzaf_11365871186882377717.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Bon Iver",
+      "title": "Holocene",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/84/b0/58/mzi.ycuqnjsf.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ff/4c/27/mzm.jnrmvhtw.aac.p.m4a"
+    },
+    {
+      "artist": "坂本龍一",
+      "title": "Merry Christmas Mr. Lawrence",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/f3/f9/6ff3f97f-e73c-34f3-a43f-45e894235de4/11725000.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/cb/9f/b1cb9f2f-044a-c484-67fb-ec2f999848a7/mzaf_7427286531836844374.plus.aac.p.m4a"
+    },
+    {
+      "artist": "フィッシュマンズ",
+      "title": "ナイトクルージング",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/2a/6b/412a6bcb-68ac-e2f1-9598-198ffa36cdaf/00602567908593.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d7/50/c2d7508e-7a5a-ab63-5eb5-22811db21e20/mzaf_4251326663735622551.plus.aac.p.m4a"
+    },
+    {
+      "artist": "青葉市子",
+      "title": "海底のエデン",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/8a/37/098a37fe-b1b7-652a-d606-067899228a43/4550752676641_cover.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/f1/f4/f3f1f4ce-d670-96e4-d63e-bd2515f1e55e/mzaf_16634701432922633475.plus.aac.p.m4a"
+    }
+  ],
+  "INFP": [
+    {
+      "artist": "Radiohead",
+      "title": "Daydreaming",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/f2/5d/b7f25d91-4320-47c8-146a-6f84d5bc7e78/cover.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/dd/9a/33dd9a98-2501-cd01-bd69-58bb21737743/mzaf_14297871625753893271.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/dc/91/f0dc9170-38d5-b381-9e51-b01a8c9968b5/886445045550.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/7c/2a/787c2a3f-7615-159f-556b-8e49267b3cbd/mzaf_16880445610212853154.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Sigur Rós",
+      "title": "Starálfur",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4f/63/6f/4f636f12-ced1-e8b3-bb96-0ba27e843681/190296917516.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c2/83/de/c283def9-7a07-32db-ce8c-44d961ea7fa0/mzaf_1882743668420053800.plus.aac.p.m4a"
+    },
+    {
+      "artist": "フィッシュマンズ",
+      "title": "ナイトクルージング",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/2a/6b/412a6bcb-68ac-e2f1-9598-198ffa36cdaf/00602567908593.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d7/50/c2d7508e-7a5a-ab63-5eb5-22811db21e20/mzaf_4251326663735622551.plus.aac.p.m4a"
+    },
+    {
+      "artist": "坂本龍一",
+      "title": "solitude",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/b5/dd/47b5dd35-633c-abad-fd07-6cf956b8ac08/Opus_cover_0710.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/cd/5c/7acd5c66-6562-8897-f859-52c1d5f6d87d/mzaf_15852693775479998632.plus.aac.p.m4a"
+    },
+    {
+      "artist": "syrup16g",
+      "title": "生活",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/6d/a4/9d6da40f-8135-2724-4e0b-b073fc3e2928/dj.cdfenfbv.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/fd/d3/4dfdd34f-40ac-0ded-4f1d-b7bb5e05f37c/mzaf_12261356465815864920.plus.aac.p.m4a"
+    }
+  ],
+  "ENFJ": [
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/f6/95/62f695f9-6331-b292-8213-6731f41c6463/mzaf_4510846020766395523.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "What's Going On",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/f3/f4/08f3f452-b24f-e25b-92bc-15850f1bdc6a/mzaf_14002930736666872327.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Fix You",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/42/e3/e542e340-a45c-695e-e0b8-6155e222ebc0/mzaf_14955746616030397665.plus.aac.p.m4a"
+    },
+    {
+      "artist": "RADWIMPS",
+      "title": "正解",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/f1/62/aaf16249-0d92-763a-5a78-65ea3ac568d2/24UMGIM04362.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bd/e7/5d/bde75def-a9ac-85b8-0e40-49a00372efcc/mzaf_8833784662794308892.plus.aac.p.m4a"
+    },
+    {
+      "artist": "宇多田ヒカル",
+      "title": "道",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/c7/f7/33c7f769-589b-9c48-fe2f-e2d0a4781ec4/16UMGIM59612.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/72/7f/15727f68-b07e-8cff-1839-444d16191874/mzaf_6124460412233632103.plus.aac.p.m4a"
+    },
+    {
+      "artist": "SUPER BEAVER",
+      "title": "人として",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/4a/7a/2d4a7a8c-9101-e1f7-9f93-e488f7bbd137/082705_J.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a4/15/a7/a415a701-06fa-0f1a-8742-0e836a5ff102/mzaf_6981227736555860891.plus.aac.p.m4a"
+    }
+  ],
+  "ENFP": [
+    {
+      "artist": "David Bowie",
+      "title": "Space Oddity",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/d7/ac/1fd7ac86-48f1-b786-9d7e-2fa6da5825e1/190295994068.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c3/54/2d/c3542d12-0852-cfa9-bfbb-721cc3d129c8/mzaf_1775834641806730037.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Viva La Vida",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/bc/3d/56bc3d9c-0a4a-0466-643e-eb9bd748e8bf/190295978037.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0b/17/33/0b17337d-f9f4-2697-e1c7-dcbce168d3e0/mzaf_18318399393001191915.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/e1/67/03e167d6-ee05-eb32-55e9-c5040f55a8bf/20UMGIM21166.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/44/0d/1d440dbc-9832-08e6-080d-aa1e1bacf40c/mzaf_3600642016947675074.plus.aac.p.m4a"
+    },
+    {
+      "artist": "藤井風",
+      "title": "きらり",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d6/75/4f/d6754fcb-b2e8-db66-b51f-8b142ac75132/21UMGIM23568.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2b/4d/a2/2b4da202-71db-39f6-0430-b09db41dce7c/mzaf_14562628887257430347.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Ado",
+      "title": "新時代",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d4/bf/da/d4bfda5d-b92c-b27f-2777-0716fc5b12b2/22UMGIM74128.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/11/8e/f9118ea2-28b2-81e6-f1c4-26aaabc84ebe/mzaf_17441986678710367221.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Vaundy",
+      "title": "東京フラッシュ",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/89/00/09890002-b2de-3637-39b2-f6c2d34d0e93/197189854859.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/d0/f2/35d0f2d7-532a-6a60-f1f4-2b9758193296/mzaf_18242283110077166440.plus.aac.p.m4a"
+    }
+  ],
+  "ISFJ": [
+    {
+      "artist": "The Beatles",
+      "title": "In My Life",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c8/d3/12/c8d31247-3300-943a-f1bb-2bf42754df84/VHCD-1037.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/e7/fc/f9e7fcc9-d5a1-26cb-77d3-5478e0c07496/mzaf_9902345551365363135.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Don't Know Why",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/e8/60/6ee860c1-dd50-eb8a-cbbe-a1274f69ad59/13UABIM49412.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/94/87/979487ff-874e-c3de-808c-92ed69107bfb/mzaf_5993950171905426575.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Carole King",
+      "title": "You've Got a Friend",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6d/69/fe/6d69feaf-8210-a7d5-1ace-7f285d4a70a3/mzaf_16732455083639526707.plus.aac.p.m4a"
+    },
+    {
+      "artist": "宇多田ヒカル",
+      "title": "First Love",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d1/a6/81/d1a681b9-aa68-6148-5a50-69fd4c95cc37/00602567241966.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/48/19/b2/4819b272-5c24-7450-0989-089abd71b016/mzaf_1477730334620289536.plus.aac.p.m4a"
+    },
+    {
+      "artist": "スピッツ",
+      "title": "ロビンソン",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/26/3b/9a263bc6-cebd-04df-c362-2a0868d277dd/00602557728743.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/c5/da/16c5da67-2d5b-5d58-7e3e-c3c4b671390f/mzaf_3931477327000470742.plus.aac.p.m4a"
+    },
+    {
+      "artist": "星野源",
+      "title": "くだらないの中に",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/68/95/f7/6895f77d-15fb-56ea-48a6-b549de8d9137/VEATP-32398.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f4/47/45/f447457a-5721-d7fc-b803-74ca2a603b15/mzaf_10078572211717563597.plus.aac.p.m4a"
+    }
+  ],
+  "ISFP": [
+    {
+      "artist": "Maroon 5",
+      "title": "Sunday Morning",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/12/fe/eb12fe62-1e28-ebfd-0daa-f9aa66bbb882/12UMGIM15818.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/25/67/152567f2-72bf-be05-e0fd-cd413a06837d/mzaf_15981746673146698020.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Khalid",
+      "title": "Location",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/d1/c6/d2d1c6d0-57d0-139c-f930-aeee596cdf84/886446057019.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/8d/01/e58d0123-94d0-55a3-2daa-d0062b9f120c/mzaf_10637145471490498969.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Corinne Bailey Rae",
+      "title": "Put Your Records On",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/76/db/e8/76dbe8bd-fd8f-b3f7-c6a8-26f401305eb0/13UABIM52293.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b3/75/a8/b375a878-837e-f053-8ab0-f4d80dfa9ea7/mzaf_8027137572053419051.plus.aac.p.m4a"
+    },
+    {
+      "artist": "キリンジ",
+      "title": "エイリアンズ",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/f3/16/17f316a9-bd7f-77ea-8b1a-f481cfdf2024/4547366790771.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ec/78/f5/ec78f5b4-f15c-b858-186e-2141839e8b41/mzaf_1062843704157862157.plus.aac.p.m4a"
+    },
+    {
+      "artist": "くるり",
+      "title": "琥珀色の街、上海蟹の朝",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/49/9c/44/499c440a-cc9b-8155-9ff5-5436a51dc3b5/VEATP-33594.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/4c/6f/be4c6f5a-c051-e637-e895-e36dd802e9e5/mzaf_8811377127589927911.plus.aac.p.m4a"
+    },
+    {
+      "artist": "あいみょん",
+      "title": "あのね、",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/bd/6b/31bd6bc7-bc43-ec04-5fce-2ca2f87c999a/5054197896880.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/9f/e2/479fe228-1534-c65b-991e-6233f295ed8b/mzaf_2751984749116339187.plus.aac.p.m4a"
+    }
+  ],
+  "ESFJ": [
+    {
+      "artist": "ABBA",
+      "title": "Dancing Queen",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/47/93/1a4793fc-1586-87bc-00d2-dc4916a61c7c/mzaf_13920610926910283055.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "title": "Uptown Funk",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/e1/98/62e19826-cd13-6eff-390e-dbca502bb7b5/mzaf_8006535252627949661.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/37/ef/95/37ef9529-bff6-d7ca-541c-f6c87c5922b3/886444938808.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cb/cd/dd/cbcdddf5-b387-7122-6912-627a2ae8bc8a/mzaf_1649957630544521791.plus.aac.p.m4a"
+    },
+    {
+      "artist": "星野源",
+      "title": "恋",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/a2/fd/bda2fd49-c3cc-af75-d435-9d1e57de5759/VEATP-33775.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ce/63/46/ce63465e-d75b-7cd4-0808-0bea84875ebf/mzaf_354710301589870496.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Vaundy",
+      "title": "怪獣の花唄",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/89/00/09890002-b2de-3637-39b2-f6c2d34d0e93/197189854859.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/25/9c/55259cca-cefc-96d8-a72e-5d9998679324/mzaf_4745698241765053590.plus.aac.p.m4a"
+    },
+    {
+      "artist": "YOASOBI",
+      "title": "アイドル",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/db/16/f0db16be-457e-f10f-98b6-f30b11de34e4/mzaf_5189430943078523093.plus.aac.p.m4a"
+    }
+  ],
+  "ESFP": [
+    {
+      "artist": "Bruno Mars",
+      "title": "24K Magic",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/77/cd/7277cdca-1387-1c7a-529e-72f3c2ed070d/mzaf_3495320363426981496.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/dc/4d/59dc4dda-93ff-8f1c-c536-f005f6ea6af5/mzaf_3066686759813252385.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Queen",
+      "title": "Don't Stop Me Now",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/3e/37/273e37e3-86bf-9420-1917-7f991ee5138b/14UMGIM42223.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/e9/68/a8e96862-ebb9-ee9e-ee75-e047e02f7e2f/mzaf_13210232226651310717.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Creepy Nuts",
+      "title": "Bling-Bang-Bang-Born",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/81/dc/1281dc28-48e6-5ff7-642d-6cf4d487d9e0/4547366660890.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ab/ee/99/abee99ed-b939-5d0f-43cb-11dfbdba00b5/mzaf_9186164617284703862.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Ado",
+      "title": "唱",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/e8/82/80e8826c-f877-9a74-0e7b-a142108feda0/23UMGIM92958.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/3c/81/cb3c81aa-7e19-61a3-5aaa-fc521b81d27a/mzaf_11772413152923766264.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Mrs. GREEN APPLE",
+      "title": "青と夏",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/27/08/3427087f-2d39-4847-9b19-052dd3589014/18UMGIM36633.rgb.jpg/1000x1000bb.jpg",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/3b/d0/f53bd0e2-b10f-c1f6-41c4-743fa1d042de/mzaf_18355465102728204177.plus.aac.p.m4a"
+    }
+  ]
+}

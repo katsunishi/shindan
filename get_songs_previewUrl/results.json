@@ -1,0 +1,1236 @@
+[
+    {
+        "type": "INTJ",
+        "image": "./data/type_characters/intj.png",
+        "name": "冷血プロデューサー",
+        "quote": "\"It's not the notes you play, it's the notes you don't play.\"（重要なのは演奏する音符ではない。演奏しない音符なのだ。） —— Miles Davis",
+        "introduction": "あなたにとって音楽とは、単なる消費される娯楽や日常を彩るBGMではありません。それは緻密に計算され尽くした「芸術作品」との、一対一の真剣な対峙です。アーティストが心血を注いで構築した世界に、深海へと沈んでいくように没入していくことに、あなたは無上の喜びを感じるはずです。",
+        "subtitle": "音の背後にある真理を求めて",
+        "subtitle_text": "流行のプレイリストや他人の評価に流されることは、あなたには決してありません。静寂に包まれた自分だけの空間で、音の背後にある構造や意図を探求し、誰も気づかないような複雑なサウンドスケープの真理を論理的に解き明かすこと。それこそが、あなたの揺るぎない音楽的アイデンティティの核となっています。\nだからこそあなたは、アーティストが意図した曲順通りに、一切のスキップを許さずにアルバムを再生します。一音一音の配置に込められた意味を汲み取るその姿勢は、まさに音の探求者と言えるでしょう。",
+        "concept": "音の構造と意図を静かに読み解く、孤高の探求者。",
+        "features": [
+            "戦略家",
+            "本質志向",
+            "独立思考",
+            "先見性が高い",
+            "完璧主義",
+            "感情を内に秘める",
+            "静かな支配力",
+            "構造化が得意",
+            "自己基準が強い",
+            "長期視点の設計者",
+            "ミニマルな美意識",
+            "緻密なアレンジ感覚",
+            "静謐なサウンド志向",
+            "余白を聴く耳",
+            "コンセプトアルバム体質"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Radiohead",
+                "title": "Everything In Its Right Place",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/fb/81/45fb8153-21f0-8a66-ba39-4bbd66a12be0/191404116654.png/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Aphex Twin",
+                "title": "Alberto Balsalm",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/e2/11/28e211f0-369c-891e-df54-7d12742f2bbb/artwork.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Pink Floyd",
+                "title": "Time",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/76/b0/3e76b0e3-762b-2286-a019-8afb19cee541/886445635829.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Cornelius",
+                "title": "Point of View Point",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7a/d6/0c/7ad60c65-ead2-0786-2fb0-729c3e27a2f1/190295381745.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "サカナクション",
+                "title": "ユリイカ",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/ab/69/83ab69ab-265b-d5c5-cca3-3ad62d4e8be2/VICL-65194.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "millennium parade",
+                "title": "Fly with me",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/44/2a/12442a18-ca4f-3dda-dd94-9711c9d12051/VTZL-174.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "音楽を聴くとき、あなたはまず全体の構造を把握しようとします。メロディの美しさだけで満足するのではなく、展開の設計、音の配置、アルバム全体の流れまで一つの体系として捉える傾向があります。気に入った作品は何度も聴き返し、そのたびに新しい意図や規則性を発見していきます。流行に左右されるより、自分の基準で選び抜いた作品を深く理解することに価値を感じるタイプです。",
+            "creator": "クリエイターとしては、頭の中にある完成形をかなり明確に持ったうえで制作に入ります。勢いで形にするよりも、どの音がどこにあるべきかを考えながら、緻密に積み上げていく作り方が得意です。細部の質にも妥協せず、全体の統一感や必然性を重視するので、完成までに時間はかかっても強い説得力を持つ作品になりやすいです。静かですが、非常に意志の強い表現者です。"
+        },
+        "compatibility": {
+            "highest": "地下室のベーシスト - 共に感情論を排し、音の構造や歴史的背景を知的議論として何時間でも語り合える最高の分析パートナーとなるため。",
+            "surprising": "マザーテレサ - 論理と感情の違いはあれど、「意図された曲順通りに一切スキップせずアルバムに没入する」というストイックな聴き方が一致しているため。",
+            "worst": "流行モンスター - 冷血プロデューサーの「緻密な解剖」に対し、流行モンスターは「サビだけをファストフードのように消費する」ため、音楽体験のペースが全く噛み合わないため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "INTP",
+                "image": "./data/type_characters/intp.png",
+                "name": "地下室のベーシスト"
+            },
+            "surprising": {
+                "type": "INFJ",
+                "image": "./data/type_characters/infj.png",
+                "name": "マザーテレサ"
+            },
+            "worst": {
+                "type": "ESFP",
+                "image": "./data/type_characters/esfp.png",
+                "name": "流行モンスター"
+            }
+        }
+    },
+    {
+        "type": "INTP",
+        "image": "./data/type_characters/intp.png",
+        "name": "地下室のベーシスト",
+        "quote": "「すべてが、あるべき正しい場所にある。」 — Radiohead \"Everything In Its Right Place\"",
+        "introduction": "あなたにとって音楽とは、単なる消費財や日常のBGMではありません。それは解き明かすべき緻密な「パズル」であり、果てなき「探求」の対象です。世間を賑わす表層的な流行に流されることなく、音と音の隙間に潜む法則性や、サウンドが生まれる歴史的・文化的な文脈、さらには言語構造がメロディに与える影響といった深層のテーマと深く「対峙」することに、あなたは無上の喜びを覚えます。",
+        "subtitle": "緻密なる音の解剖学",
+        "subtitle_text": "一聴しただけでは理解し難い、複雑で異質な音像。そこに自身の精神を深く没入させ、一つ一つの音がどんな機材や手法で構成されているのかを脳内で解体していく過程に、あなたは究極の美を見出します。\n聴く時は、あらゆる音を「点」ではなく文脈という「線」で捉え、自分だけの巨大なデータベースを構築する生粋の研究者です。一方、作曲するなら、音波の波形やエフェクトの残響に至るまでを論理的にコントロールし、抽象的なデータの中に独自の宇宙を創り出す、孤高のアーキテクトとしての顔を持ち合わせています。",
+        "concept": "複雑な音を解体し、自分だけの理論で再構築する研究者。",
+        "features": [
+            "思索家",
+            "論理探究者",
+            "仮説駆動",
+            "知的好奇心が強い",
+            "抽象化が得意",
+            "マイペース",
+            "矛盾に敏感",
+            "客観視が鋭い",
+            "発想が自由",
+            "内省的な分析者",
+            "実験音楽適性",
+            "変拍子に惹かれる",
+            "音の構造を楽しむ",
+            "アンビエント志向",
+            "リズム分解能が高い"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Aphex Twin",
+                "title": "minipops 67 [120.2][source field mix]",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/eb/60/04/eb600461-6436-e106-679c-aa838b4ac819/4523132113449.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "The Smile",
+                "title": "The Smoke",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/f4/e5/5ef4e525-68b6-0ac2-3bcc-a2670ab21bb7/191404119655.png/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Steve Reich",
+                "title": "Music for 18 Musicians",
+                "image_url": null
+            },
+            {
+                "artist": "Cornelius",
+                "title": "Drop",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7a/d6/0c/7ad60c65-ead2-0786-2fb0-729c3e27a2f1/190295381745.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "坂本龍一",
+                "title": "ZURE",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/61/47/6b/61476b07-540c-39b8-a7fd-d01da087a2a6/ANTCD-21497.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "ZAZEN BOYS",
+                "title": "HONNOJI",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/79/22/32/792232b1-28b3-936d-08b6-95c00cd22196/4580789508769.png/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは音楽の中にある違和感や変則性を面白さとして受け取れるリスナーです。多くの人が聞き流すような音の重なりや展開のずれにも敏感で、そこから独自の魅力を見つけ出します。わかりやすく感動する作品だけでなく、考えさせられる作品や構造に発見がある作品にも強く惹かれます。聴くこと自体が思考の遊びになっていて、ジャンルを越えて自分なりの面白さを掘り当てていくタイプです。",
+            "creator": "クリエイターとしては、既存の型をそのままなぞることにあまり満足しません。むしろ、異なる要素を組み合わせたり、普通なら避けられる発想同士をぶつけたりしながら、新しい成立の仕方を探っていきます。ひらめきを理屈へつなげる力があるので、変わっているだけで終わらず、独自の筋が通った作品に仕上げられます。尖っていても、聴くほど意味が見えてくるタイプの表現が得意です。"
+        },
+        "compatibility": {
+            "highest": "爆速ディガー - 共に既存のルールや予定調和を嫌い、前衛的で複雑なノイズの中に「新しい響き」を見出す点で強烈に共鳴するため。",
+            "surprising": "孤独なドラマー - 「論理的なパズル」と「物理的なビートの機構」というように、感情や歌詞を介さず音そのものの凄みを理解し合えるため。",
+            "worst": "コンシェルジュ - 地下室のベーシストが愛する「誰も知らない難解な音楽」を、コンシェルジュは「マイナーすぎてみんなで盛り上がれない」と遠ざけるため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "ENTP",
+                "image": "./data/type_characters/entp.png",
+                "name": "爆速ディガー"
+            },
+            "surprising": {
+                "type": "ISTP",
+                "image": "./data/type_characters/istp.png",
+                "name": "孤独なドラマー"
+            },
+            "worst": {
+                "type": "ESFJ",
+                "image": "./data/type_characters/esfj.png",
+                "name": "コンシェルジュ"
+            }
+        }
+    },
+    {
+        "type": "ENTJ",
+        "image": "./data/type_characters/entj.png",
+        "name": "天下取りのギタリスト",
+        "quote": "「私は、世界を音楽で塗り替えるためにここにいる。」 — Kanye West",
+        "introduction": "あなたにとって音楽とは、単なる情緒的な慰めや一過性の流行ではありません。それは自己の感性を研ぎ澄まし、時代の最先端を切り拓くための「知的な武器」です。過去の巨匠たちが築き上げた歴史的な文脈を深く探求し、その構造を理解した上で、技術的に優れた革新的なサウンドに対峙することを好みます。常に「次に来る音」を冷徹に見極める視点を持ち、未知の音像へ没入することで、自分だけの美学を体系化していく過程に強い情熱を注ぐ開拓者です。",
+        "subtitle": "不変の野心と音の構造",
+        "subtitle_text": "ENTJ型の音楽的アイデンティティは、圧倒的な「解像度」と「革新性」への執着にあります。音楽を愛する理由は、それが論理と感性が高度に融合した「設計図」だからです。\n聴く時は、単に音に身を委ねるのではなく、その楽曲が音楽史のどの位置に属し、どのような技術的ブレイクスルーを含んでいるかを即座に分析します。妥協のない審美眼を持ち、質の低い音や安易な模倣には目もくれません。あなたにとって音楽との対峙は、常に進化と開拓を伴うダイナミックな挑戦なのです。",
+        "concept": "革新性と完成度を見抜き、進化を求め続ける戦略家。",
+        "features": [
+            "指揮官",
+            "決断が速い",
+            "目標達成志向",
+            "統率力が高い",
+            "合理主義",
+            "競争心が強い",
+            "主導権を握る",
+            "課題解決型",
+            "結果に厳しい",
+            "大局観がある",
+            "アンセム気質",
+            "高揚感を作る人",
+            "ビート主導型",
+            "ドラマティック志向",
+            "主旋律を牽引する力"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Kanye West",
+                "title": "POWER",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/0b/31/0a0b31cc-077c-31bf-e7fe-612191774948/10UMGIM30072.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Daft Punk",
+                "title": "Giorgio by Moroder",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/0a/05/7c/0a057ce0-1933-4ee8-505e-c75754a314b3/dj.rlzzqodr.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Radiohead",
+                "title": "Paranoid Android",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/5b/05/e05b0511-17ce-9e75-dc44-53989da41bd2/Cover.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "YMO",
+                "title": "Rydeen",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/cd/17/1dcd1769-0e41-b0fa-c6a5-ceff198c9517/jacket_MHCL20103B00Z_550.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "King Gnu",
+                "title": "一途",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/d7/73/64d77339-d682-5903-611f-cf59ab928750/4547366542400.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "椎名林檎",
+                "title": "丸ノ内サディスティック",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/da/b4/bddab4d2-176e-6438-76dc-54bd4eac3914/18UMGIM22257.rgb.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは音楽を楽しむだけでなく、何が強い作品なのかを見抜こうとする視点を持っています。完成度、影響力、時代性をまとめて判断しながら、自分なりの基準で優れた作品を選び取ります。プレイリストにも明確な意図があり、ただ好きな曲を並べるというより、価値が伝わる順番や流れまで考える傾向があります。音楽を通して自分の審美眼や判断力を表現するタイプです。",
+            "creator": "クリエイターとしては、まず大きなビジョンを描き、その実現に必要な要素を整理しながら制作を進めます。何を印象づけるべきか、どこで強いフックを作るべきかが明確なので、作品に推進力があります。自己満足の表現に留まらず、聴く人にどう届くかまで考えられるため、完成した作品には強い牽引力が生まれます。スケール感と実行力を兼ね備えたタイプです。"
+        },
+        "compatibility": {
+            "highest": "カリスマ案内人 - 共に「プロフェッショナルな品質」を求め、論理的なプレゼンで周囲の感性をリードする最強のキュレーターコンビになるため。",
+            "surprising": "探検隊長 - 天下取りのギタリストの「歴史的文脈の構築」に対し、探検隊長が「未知のジャンルからの偶然」を持ち込み、互いの世界を拡張できるため。",
+            "worst": "放浪者 - 天下取りのギタリストが求める「文脈や革新性の論理的な説明」を、放浪者は「言葉による過剰な説明」「理屈っぽい」と嫌い、コミュニケーションがすれ違うため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "ESTJ",
+                "image": "./data/type_characters/estj.png",
+                "name": "カリスマ案内人"
+            },
+            "surprising": {
+                "type": "ENFP",
+                "image": "./data/type_characters/enfp.png",
+                "name": "探検隊長"
+            },
+            "worst": {
+                "type": "ISFP",
+                "image": "./data/type_characters/isfp.png",
+                "name": "放浪者"
+            }
+        }
+    },
+    {
+        "type": "ENTP",
+        "image": "./data/type_characters/entp.png",
+        "name": "爆速ディガー",
+        "quote": "「ここからどこへ向かうかはわからない。だが、退屈な場所ではないことだけは約束するよ。」 — David Bowie",
+        "introduction": "ENTP型の人々にとって、音楽は単なる安らぎの旋律ではなく、脳内を攪拌（かくはん）し、未知の領域へと接続するための「知的触媒」です。既存のヒットチャートや予定調和な和音には目もくれず、まだ誰も言語化できていない「新しい響き」や、前衛的なリズム構造との対峙に、抗いがたい快感を覚えます。彼らは音の波形の中に、既成概念を破壊し、再定義するための「可能性の断片」を見出す探求者なのです。",
+        "subtitle": "飽くなき知的好奇心",
+        "subtitle_text": "ENTP型が音楽を愛する根本的な理由は、それが「終わりのないダイナミズムを伴う実験」だからです。彼らにとって、完璧に整ったクラシックな調和は、時に退屈な停滞を意味します。それよりも、一見すると理解不能な不協和音や、ジャンルの境界線を軽々と飛び越える実験的なアプローチにこそ、真の知性と「解像度」を感じ取ります。\n音に対する固有のこだわりは、その「新奇性と文脈の衝突」にあります。聴く時も作る時も、彼らは常に「音楽の次のフェーズ」を求めています。新しい音響技術、特異なポリリズム、あるいは誰も試みなかったサンプリング——。それらを手がかりに、世界の認識を更新し続けること。それがENTP型が音と向き合う際の本質的なアイデンティティです。",
+        "concept": "新奇な音の衝突から次の時代を探る実験者。",
+        "features": [
+            "革命家",
+            "アイデアマン",
+            "議論好き",
+            "知的遊び人",
+            "変化を楽しむ",
+            "枠を壊す発想",
+            "好奇心で動く",
+            "退屈に弱い",
+            "即興性が高い",
+            "多面的に考える",
+            "ジャンル横断型",
+            "マッシュアップ気質",
+            "即興セッション適性",
+            "展開フェチ",
+            "サプライズ構成の名手"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Aphex Twin",
+                "title": "minipops 67 [120.2][source field mix]",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/eb/60/04/eb600461-6436-e106-679c-aa838b4ac819/4523132113449.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "100 gecs",
+                "title": "money machine",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/15/71/e015718f-826f-3968-2d1c-e766cf30947f/075679826060.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Radiohead",
+                "title": "Idioteque",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/0b/43/610b43a9-eb1c-dad1-d9aa-fa1f3ac55040/5056407969377.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Cornelius",
+                "title": "Star Fruits Surf Rider",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/9f/5f/2b/mzi.pkldamug.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "パソコン音楽クラブ",
+                "title": "Inner Blue",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/b2/ab/ceb2ab28-e6a7-342a-6881-e31e818209b5/PSCM001_jkt.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "長谷川白紙",
+                "title": "草木",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e1/56/65/e1566581-2611-49b8-3c63-eac89f265648/dj.mbygbxbj.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは新しい音楽に出会うたび、その中の面白さをすぐ発見できるリスナーです。既存の評価やジャンルの枠に縛られず、意外性や新鮮さを楽しみながら聴き進めます。ひとつの正解に落ち着くよりも、次は何があるのかを探すことそのものに強い喜びを感じます。音楽との付き合い方が軽やかで、しかも観察眼があるので、広く聴いていても表面的になりにくいタイプです。",
+            "creator": "クリエイターとしては、アイデアの回転が速く、面白いと思った要素を次々に試しながら作品を育てていきます。最初から完璧にまとめるより、複数の可能性を走らせながら、一番おもしろい形を見つけるやり方が向いています。遊び心があり、展開にも意外性があるので、聴き手を飽きさせません。自由度の高い発想を持ちながら、ちゃんと作品として成立させられるのが強みです。"
+        },
+        "compatibility": null
+    },
+    {
+        "type": "ISTJ",
+        "image": "./data/type_characters/istj.png",
+        "name": "音楽の番人",
+        "quote": "「完璧なものは、何ひとつ変える必要がない。」 — Kraftwerk",
+        "introduction": "ISTJ型の人々にとって、音楽は一過性の感情を煽る道具ではなく、自身の内面に深く根を下ろす「秩序ある宇宙」です。刹那的な流行や、ノイズの多い未完成な旋律に心をかき乱されることを好みません。彼らが至上の充足を覚えるのは、完璧に設計された音響構造と対峙し、その細部にまで宿る意図を解剖するように没入する瞬間です。混沌とした世界の中で、変わることのない「正解」としての旋律を探求し、自らの精神を整律すること。それが彼らの音楽ライフの根幹にあります。",
+        "subtitle": "秩序が紡ぐ旋律の聖域",
+        "subtitle_text": "ISTJ型が音楽を愛する理由は、音の集積の中に「論理的な美」を見出すことにあります。彼らにとって音楽とは、感覚的な刺激である以上に、緻密な計算と高度な技術によって構築された「建築物」に近い存在です。\n作曲するなら、一音の狂いも許さない堅実な旋律を積み上げ、聴き手に「納得」を与えるサウンドを設計します。聴く時は、録音状態や楽器の定位など、技術的な完成度を極めて高い解像度で聞き分けます。彼らにとっての「良い曲」とは、構造が安定しており、何度繰り返してもその価値が損なわれない、不変の調和を保った作品なのです。",
+        "concept": "緻密な構造美と揺るがない完成度を愛する設計者。",
+        "features": [
+            "職人",
+            "責任感が強い",
+            "堅実派",
+            "継続力が高い",
+            "秩序を重んじる",
+            "誠実",
+            "慎重",
+            "実務能力が高い",
+            "安定志向",
+            "信頼を積み上げる人",
+            "正確なテンポ感",
+            "クラシック気質",
+            "反復の美学",
+            "タイトなグルーヴ",
+            "譜面に強いタイプ"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Steely Dan",
+                "title": "Aja",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/61/84/5f618416-cea0-be10-a104-590b18605694/06UMGIM12631.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "J.S. Bach",
+                "title": "The Well-Tempered Clavier",
+                "image_url": null
+            },
+            {
+                "artist": "Kraftwerk",
+                "title": "The Model",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f2/d8/d8/mzi.cacqljop.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "山下達郎",
+                "title": "SPARKLE",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d2/ea/0a/d2ea0aac-59a4-1267-6920-f81ffb102f02/AGIP-3667-3000x3000.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "坂本龍一",
+                "title": "Merry Christmas Mr. Lawrence",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/f3/f9/6ff3f97f-e73c-34f3-a43f-45e894235de4/11725000.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "サカナクション",
+                "title": "ミュージック",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/27/21/87/2721877e-3adb-42e9-2cc9-52f77331bb39/VICL-36754.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは音楽を丁寧に積み重ねて理解していくリスナーです。気に入った作品は背景や技術面まで把握したくなり、自分の中で信頼できる曲として整理していきます。一時的な話題性よりも、長く聴ける完成度や再現性を重視するため、自然と安定感のある名曲が集まりやすいです。派手に語ることは少なくても、選んでいる曲には一貫した美意識と確かな基準があります。",
+            "creator": "クリエイターとしては、基本に忠実で、完成までの工程を着実に積み上げる力があります。勢いだけで作るのではなく、構成、演奏、音の整合性を一つずつ確かめながら形にしていくため、作品に堅実さが宿ります。奇抜さはなくても、何度聴いても崩れない強さがあり、時間が経っても信頼できる仕上がりになります。安定感そのものが個性になるタイプです。"
+        },
+        "compatibility": {
+            "highest": "冷血プロデューサー - 共に「完璧に設計された音響構造」と「無駄のない論理的な美」を愛し、互いの精緻なライブラリを静かにリスペクトし合えるため。",
+            "surprising": "エモ・キーパー - 「正確な記録」と「感情の記録」という違いはあれど、共に「音楽を大切なアーカイブとして保存する」コレクター気質が共鳴するため。",
+            "worst": "爆速ディガー - 音楽の番人が積み上げた「完璧な正解としての旋律」を、爆速ディガーは「ルールを壊す遊び心」でかき回そうとするため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "INTJ",
+                "image": "./data/type_characters/intj.png",
+                "name": "冷血プロデューサー"
+            },
+            "surprising": {
+                "type": "ISFJ",
+                "image": "./data/type_characters/isfj.png",
+                "name": "エモ・キーパー"
+            },
+            "worst": {
+                "type": "ENTP",
+                "image": "./data/type_characters/entp.png",
+                "name": "爆速ディガー"
+            }
+        }
+    },
+    {
+        "type": "ISTP",
+        "image": "./data/type_characters/istp.png",
+        "name": "孤独なドラマー",
+        "quote": "「音楽は嘘をつかない。もしこの世界に何かを変える力があるとするなら、それは音楽をおいて他にない。」 — Jimi Hendrix",
+        "introduction": "ISTP型の人々にとって、音楽は着飾るための装飾品でも、空白を埋める背景音でもありません。それは、物理的に鼓膜を揺らす低域のエネルギーや、研ぎ澄まされた音の粒子と一対一で「対峙」するための実体です。彼らは流行という名の残響に惑わされることなく、音の機構そのものを冷静に解剖しようとする、職人気質な魂の持ち主です。",
+        "subtitle": "【第1章】機能美を愛でる聴覚の職人",
+        "subtitle_text": "ISTP型が音楽に惹かれる理由は、その構造が持つ「理屈抜きの正解」にあります。緻密に組まれたリズムの機構や、ベースラインが描く無駄のない曲線。そこに工学的な美しさを見出したとき、彼らは深い没入状態へと入ります。\n作曲するなら、過度な装飾を削ぎ落とし、土台となるビートの強度で聴き手をねじ伏せるような、実用的なサウンドを設計します。聴く時も同様に、アーティストの意図やメッセージ性よりも、「音がどう鳴っているか」という純粋な質感を重視します。彼らにとっての音楽的探求は、精神を最も研ぎ澄まされた状態へと導くための、静かな儀式なのです。",
+        "concept": "無駄を削いだ質感と機能美に没入する職人。",
+        "features": [
+            "実践家",
+            "観察眼が鋭い",
+            "冷静沈着",
+            "問題解決が早い",
+            "独立心が強い",
+            "無駄が嫌い",
+            "瞬発力がある",
+            "器用",
+            "現場対応力が高い",
+            "感覚で見抜く人",
+            "ソロプレイヤー気質",
+            "リフ志向",
+            "タイトなプレイ",
+            "音で会話する人",
+            "ジャムセッション適性"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Daft Punk",
+                "title": "Harder, Better, Faster, Stronger",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "J Dilla",
+                "title": "Don't Cry",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/d3/c5/63d3c537-ac30-86e7-8e69-8a03a5346209/792.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Aphex Twin",
+                "title": "Xtal",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Cornelius",
+                "title": "Drop",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7a/d6/0c/7ad60c65-ead2-0786-2fb0-729c3e27a2f1/190295381745.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Nujabes",
+                "title": "Luv(sic) Part 2",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cf/cb/2b/cfcb2b72-c7a5-b4af-e227-46d341a3e3f2/Luv_sic_Hexjaket.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "ZAZEN BOYS",
+                "title": "Honnoji",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/79/22/32/792232b1-28b3-936d-08b6-95c00cd22196/4580789508769.png/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは音楽を理屈より身体感覚で捉えるリスナーです。音の質感、リズムの乗り方、演奏の手触りに敏感で、説明できなくても自分に合うかどうかをすぐに判断できます。評価が高いからではなく、実際に鳴っている音が気持ちいいかを大事にするので、選曲には実感があります。余計な言葉を足さず、感覚の精度で音楽を選び取るタイプです。",
+            "creator": "クリエイターとしては、まず手を動かしながら最適な形を探るのが得意です。考えすぎるより、実際に鳴らしながら気持ちいいポイントを見つけていくので、作品に無駄が少なくなります。装飾を増やすより必要な要素だけで成立させる力があり、クールで実践的な表現に強さがあります。シンプルでも質が高く、手触りの良い作品を作れるタイプです。"
+        },
+        "compatibility": null
+    },
+    {
+        "type": "ESTJ",
+        "image": "./data/type_characters/estj.png",
+        "name": "カリスマ案内人",
+        "quote": "「Music makes the people come together.（音楽が人々を一つにする）」—— Madonna ”Music”",
+        "introduction": "あなたにとって音楽とは、ただ受動的に消費される娯楽や、無目的に流れるBGMではありません。それは、時代と社会の鼓動を正確に捉え、その場の空間や熱量を支配するためのダイナミックな「対峙」です。今まさにチャートを席巻し、人々の熱狂を生み出している最前線のシーンに真っ先に没入し、その中心でタクトを振ることこそが、あなたの本質的な喜びなのです。",
+        "subtitle": "時代を動かす鼓動を求めて",
+        "subtitle_text": "あなたは、なぜその楽曲が人々の心を動かすのかというメカニズムを、極めて高い解像度で探求することに揺るぎないアイデンティティを持っています。単なる「ノリの良さ」や直感だけで音楽を評価することはありません。その裏に隠された洗練されたサウンドメイキングの意図や、緻密に計算されたマーケティング的背景までをも鋭く見抜く視座を持っています。\n音楽の力を借りて周囲の熱量をコントロールし、現実世界に確かな影響とムーブメントを与えていくこと。単なる傍観者で終わらず、音という強力なツールを使って社会にアプローチしていく姿勢こそが、あなたが音楽に深く惹かれる最大の理由です。\nあなたの探求心を満たす、おすすめの楽曲",
+        "concept": "音楽の仕組みを読み解き、現実を動かす実践派。",
+        "features": [
+            "統率者",
+            "実行管理が得意",
+            "責任遂行型",
+            "現実主義",
+            "規律を重んじる",
+            "判断が明快",
+            "頼られやすい",
+            "段取り上手",
+            "成果志向",
+            "場を締める人",
+            "マーチング気質",
+            "ビートを整える力",
+            "王道ポップ適性",
+            "合唱をまとめる人",
+            "リズムキープの要"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "The Weeknd",
+                "title": "Blinding Lights",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/e1/67/03e167d6-ee05-eb32-55e9-c5040f55a8bf/20UMGIM21166.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Daft Punk",
+                "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+                "image_url": null
+            },
+            {
+                "artist": "Dua Lipa",
+                "title": "Don't Start Now",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "YOASOBI",
+                "title": "アイドル",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "宇多田ヒカル",
+                "title": "One Last Kiss",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/e9/a2/0ae9a2d9-3276-825b-cc16-ca494011531c/24UMGIM13711.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "星野源",
+                "title": "恋",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/a2/fd/bda2fd49-c3cc-af75-d435-9d1e57de5759/VEATP-33775.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは音楽を選ぶ判断が早く、しかも実用的です。今この場に合うか、完成度が高いか、周囲にも伝わるかを瞬時に見抜き、納得感のある選曲ができます。ただ好きな曲を並べるだけではなく、どんな順番で出せば最も効果的かまで自然に考えられるので、周囲から頼られやすいです。音楽を場に機能させる感覚に優れたリスナーです。",
+            "creator": "クリエイターとしては、聴き手に届く形を明確に意識しながら制作を進めます。企画力と実行力があり、大きな方向性を決めたら、必要な工程を現実的に整理して仕上げ切れます。独りよがりな実験に流れにくく、完成した作品には明快さと力強さがあります。実際に機能する音楽、広く届く音楽をしっかり作り切れるタイプです。"
+        },
+        "compatibility": {
+            "highest": "天下取りのギタリスト - 共に「時代の最先端」と「プロフェッショナルな品質」を愛し、コミュニティの熱量をコントロールする指導者として強い信頼関係を築けるため。",
+            "surprising": "コンシェルジュ - カリスマ案内人の「マーケティング的視点」と、コンシェルジュの「みんなが笑顔になるトレンド察知能力」が合わさり、大衆を巻き込む熱狂を作れるため。",
+            "worst": "ループ廃人 - カリスマ案内人の「社会的評価や効率主義」が、ループ廃人の「誰かに評価されるためではない純粋な感情の吐露」というアイデンティティを根本から否定するため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "ENTJ",
+                "image": "./data/type_characters/entj.png",
+                "name": "天下取りのギタリスト"
+            },
+            "surprising": {
+                "type": "ESFJ",
+                "image": "./data/type_characters/esfj.png",
+                "name": "コンシェルジュ"
+            },
+            "worst": {
+                "type": "INFP",
+                "image": "./data/type_characters/infp.png",
+                "name": "ループ廃人"
+            }
+        }
+    },
+    {
+        "type": "ESTP",
+        "image": "./data/type_characters/estp.png",
+        "name": "直感ヒーロー",
+        "quote": "「いつかはこの世を去る。だから、記憶に残るような人生を生きろ。」 — Avicii \"The Nights\"",
+        "introduction": "あなたにとって音楽とは、静かに分析する対象ではなく、全身の血流を加速させる「実体験」そのものです。理屈や小難しいコンセプトを介さず、音の振動と直接的に対峙し、その瞬間のエネルギーに心身を没入させることに最大の価値を置きます。\nなぜ音を求めるのか。それは、退屈な日常を劇的なステージへと変貌させ、自分の存在を証明するためです。あなたは、まだ見ぬ興奮を求めて常に未知のビートを探求し続けます。直感という名のコンパスだけを頼りに、最も「今」を感じさせてくれる響きを撃ち抜くハンター、それがあなたです。",
+        "subtitle": "魂を揺さぶる一瞬の対峙",
+        "subtitle_text": "あなたの音楽的アイデンティティは、圧倒的な「現在地」への集中にあります。音楽を愛する理由は、複雑な和声理論を理解するためではなく、その音像が今この瞬間の自分をどれだけ高い解像度で彩ってくれるかに尽きます。\n作曲するなら、聴き手の鼓動とシンクロするようなフィジカルなインパクトを。聴く時は、理屈を超えて魂を共振させる爆発力を。あなたにとっての「良い音」とは、思考を停止させ、本能を解き放つトリガーに他なりません。音響の残響（リバーブ）の中に埋もれるのではなく、鋭いアタック音とともに現実を切り開く。その姿勢こそが、あなたのスタイルです。",
+        "concept": "今この瞬間の熱量を全身で鳴らすアクション派。",
+        "features": [
+            "勝負師",
+            "行動力が高い",
+            "度胸がある",
+            "場を読むのが早い",
+            "刺激追求型",
+            "即断即決",
+            "現場主義",
+            "社交性が高い",
+            "危機対応に強い",
+            "今を掴む人",
+            "ライブ映え体質",
+            "重低音に強い",
+            "ダンスフロア適性",
+            "アドリブ映えする",
+            "ドロップで魅せる人"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "The Chemical Brothers",
+                "title": "Hey Boy Hey Girl",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/23/d9/3023d9d2-f5de-2711-8bb6-5febff1a7baa/00724384761059.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Skrillex",
+                "title": "Bangarang",
+                "image_url": null
+            },
+            {
+                "artist": "AC/DC",
+                "title": "Back In Black",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Vaundy",
+                "title": "怪獣の花唄",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/89/00/09890002-b2de-3637-39b2-f6c2d34d0e93/197189854859.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "ELLEGARDEN",
+                "title": "Space Sonic",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/79/4c/ad794c1f-3b0e-4afc-7c8d-d12b79addbf3/mzm.mvmlfdmr.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "BAD HOP",
+                "title": "Kawasaki Drift",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/18/e9/3618e9aa-c284-4487-811d-f483909c46a9/5021732380937.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは曲の持つ勢いを瞬時に掴み、すぐに楽しさへ飛び込めるリスナーです。最初の数秒でテンションや引力を感じ取り、細かく分析する前に身体で反応できます。場を上げる音や気分を一気に切り替える音に強く惹かれやすく、音楽を非常にダイレクトに楽しみます。理屈よりも今の高揚感を大事にし、その判断が驚くほど正確なタイプです。",
+            "creator": "クリエイターとしては、勢いと瞬発力を武器にして強いフックを作れます。思い切った展開や大胆な押し出しを恐れず、聴いた瞬間に反応したくなるような作品へ持っていけます。現場でどう響くか、どこで熱が生まれるかを感覚的に理解しているため、ライブ感のある作品になりやすいです。聴き手を一気に巻き込む推進力の強いタイプです。"
+        },
+        "compatibility": null
+    },
+    {
+        "type": "INFJ",
+        "image": "./data/type_characters/infj.png",
+        "name": "マザーテレサ",
+        "quote": "「すべてが静まり返っても、あなたの震えは止まらない。」 — Björk \"Unravel\"",
+        "introduction": "あなたにとって音楽は、孤独を埋めるための単なる消費財でも、場を盛り上げるための装飾品でもありません。それは、目に見えない魂の輪郭をなぞり、世界の不条理や自身の存在理由と真っ向から「対峙」するための聖域です。\n情報のノイズから離れ、一つの物語に深く「没入」し、アーティストが描く広大な精神世界を独り静かに「探求」する。そのプロセスこそが、あなたの荒んだ心を整え、次の一歩を踏み出すための祈りとなります。あなたは音楽に「魂の救済」を求め、時代を超えた名曲や独自の世界観を深く愛する、思慮深い表現者なのです。",
+        "subtitle": "内省的な精神の調和",
+        "subtitle_text": "INFJ型の音楽的アイデンティティ\nあなたが音楽を愛する根本的な理由は、旋律の奥に潜む「救済」の気配や、歌詞の行間に埋もれた「真実」を敏感に察知できるからです。あなたの聴覚は、音の表面的な心地よさを超え、その裏側にあるアーティストの誠実さや精神性と共鳴しようとします。\n聴く時は、アルバムという一つの「宇宙」を最初から最後まで体験することで、自分自身の人生と重ね合わせ、精神的な対話を繰り返します。作る時は、楽譜上の正解よりも「そこに魂が宿っているか」を重視するでしょう。あなたにとっての音楽とは、世界のノイズから自分を守り、同時に世界と深く繋がるための「静かなる防波堤」なのです。",
+        "concept": "音の奥にある真実と救いを受け取る共鳴者。",
+        "features": [
+            "理想主義者",
+            "洞察が深い",
+            "共感力が高い",
+            "静かな情熱",
+            "意味を求める",
+            "人の本心を読む",
+            "献身的",
+            "内面世界が豊か",
+            "美意識が強い",
+            "信念を貫く人",
+            "叙情的メロディ志向",
+            "歌詞読解力が高い",
+            "余韻を愛する耳",
+            "静かな名曲ハンター",
+            "世界観重視のリスナー"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Radiohead",
+                "title": "Pyramid Song",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/15/8b/cf/158bcf1c-6196-c858-eb5d-1378dc6e3bbd/0746935700133_cover.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Sigur Rós",
+                "title": "Hoppípolla",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/17/b6/3017b696-807c-a886-c90b-458da38289f7/5060122335805_cover.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Bon Iver",
+                "title": "Holocene",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/84/b0/58/mzi.ycuqnjsf.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "坂本龍一",
+                "title": "Merry Christmas Mr. Lawrence",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/f3/f9/6ff3f97f-e73c-34f3-a43f-45e894235de4/11725000.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "フィッシュマンズ",
+                "title": "ナイトクルージング",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/2a/6b/412a6bcb-68ac-e2f1-9598-198ffa36cdaf/00602567908593.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "青葉市子",
+                "title": "海底のエデン",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/8a/37/098a37fe-b1b7-652a-d606-067899228a43/4550752676641_cover.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは音楽の表面より、その奥にある感情や物語を静かに受け取るリスナーです。歌詞や声の揺れ、空気感の微妙な変化から、言葉にならない本音を感じ取ることができます。派手な盛り上がりより、心に残る余韻や深い意味を大切にするため、音楽体験はかなり内面的です。自分の感情と作品を丁寧に重ねながら、深く長く味わうタイプです。",
+            "creator": "クリエイターとしては、余白やニュアンスを大事にしながら、長く心に残る作品を丁寧に紡ぎます。わかりやすく大声で伝えるよりも、静かな温度の中に本質を込めることが得意です。理想や祈りのような感情を、繊細な世界観として形にできるので、作品には独特の深さが宿ります。時間が経ってからじわりと効いてくるような表現を作れるタイプです。"
+        },
+        "compatibility": null
+    },
+    {
+        "type": "INFP",
+        "image": "./data/type_characters/infp.png",
+        "name": "ループ廃人",
+        "quote": "「僕らは、金魚鉢の中で泳ぐ二つの迷い子のようだ。」\n— Pink Floyd \"Wish You Were Here\"",
+        "introduction": "あなたにとって音楽は、単なる消費される娯楽や情報の断片ではありません。それは、言葉にできない自身の内面的な輪郭をなぞり、世界の不条理や美しさと真っ向から「対峙」するための聖域です。あなたは一音の中に宿る「切実さ」や、歌詞の行間に埋もれた「真実」を驚くべき解像度で察知し、喧騒から離れて一つの物語に深く「没入」します。アーティストが描く広大な精神世界を独り静かに「探求」するプロセスこそが、あなたの荒んだ心を整えるために不可欠な儀式なのです。",
+        "subtitle": "魂の避難所としての旋律",
+        "subtitle_text": "あなたが音楽を愛する根本的な理由は、それが外界から隔絶された「魂の避難所」として機能するからです。音に対するこだわりは、単なる技術的な完成度や解像度の高さではなく、その背後にあるアーティストの「誠実さ」に向けられます。\n作曲するなら、楽譜上の正解よりも「その音が放つ肌触り」を優先し、聴き手の肌を粟立たせるような官能的な響きを追求するでしょう。聴く時は、ジャンルや知名度に囚われることなく、自分の琴線に触れるか否かという一点において、極めて純度の高い探求を行います。あなたにとって音楽とは、常に変化し続ける「心の鏡」であり、自分自身の輪郭を確認するための神聖なプロセスなのです。",
+        "concept": "誠実な響きに身を預け、自分の心を映す感受者。",
+        "features": [
+            "夢想家",
+            "感受性が高い",
+            "純粋さを守る",
+            "自分らしさ重視",
+            "理想を抱く",
+            "優しい反骨心",
+            "共鳴を求める",
+            "内面表現が豊か",
+            "繊細",
+            "物語を生きる人",
+            "フォーク的感性",
+            "エモーショナル志向",
+            "歌詞没入型",
+            "メロウな響きに弱い",
+            "心象風景で聴く人"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Radiohead",
+                "title": "Daydreaming",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/f2/5d/b7f25d91-4320-47c8-146a-6f84d5bc7e78/cover.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Elliott Smith",
+                "title": "Between the Bars",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/dc/91/f0dc9170-38d5-b381-9e51-b01a8c9968b5/886445045550.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Sigur Rós",
+                "title": "Starálfur",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4f/63/6f/4f636f12-ced1-e8b3-bb96-0ba27e843681/190296917516.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "フィッシュマンズ",
+                "title": "ナイトクルージング",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/2a/6b/412a6bcb-68ac-e2f1-9598-198ffa36cdaf/00602567908593.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "坂本龍一",
+                "title": "solitude",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/b5/dd/47b5dd35-633c-abad-fd07-6cf956b8ac08/Opus_cover_0710.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "syrup16g",
+                "title": "生活",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/6d/a4/9d6da40f-8135-2724-4e0b-b073fc3e2928/dj.cdfenfbv.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたはその時の感情にぴたりと合う音楽を見つけるのが非常に上手です。流行や周囲の評価よりも、自分の心が本当に動くかを大事にしているため、選ぶ曲には強い個人的な物語があります。音楽は気分の避難場所でもあり、自分自身を理解するための手がかりでもあります。静かに見えて感受性は深く、誰にも見せない大切な曲をたくさん抱えているタイプです。",
+            "creator": "クリエイターとしては、自分の内面にある繊細な感情を、飾らないメロディや言葉として差し出していきます。無理に大きく見せなくても、本当に感じていることを誠実に表現することで、作品に強い真実味が宿ります。感情の揺れや願いをそのまま音に変える力があり、まっすぐで静かなのに深く刺さる作品を作れます。誠実さがそのまま魅力になるタイプです。"
+        },
+        "compatibility": null
+    },
+    {
+        "type": "ENFJ",
+        "image": "./data/type_characters/enfj.png",
+        "name": "共感教祖",
+        "quote": "「音楽のいいところは、打ちのめされても痛みを感じないことだ。」 —— Bob Marley",
+        "introduction": "あなたは、音楽を単なる「消費される娯楽」としては捉えていません。あなたにとって音の連なりは、誰かの魂の叫びであり、時に人生を導く福音そのものです。旋律の背後に隠されたアーティストの哲学や祈りと真摯に対峙し、それを受け取ることで、自らのアイデンティティを確立していきます。",
+        "subtitle": "旋律の奥に眠る真実を求めて",
+        "subtitle_text": "ENFJ型の音楽に対する向き合い方は、極めて精神的で、ある種の聖域に近いものです。特定の楽曲に触れた際、まるで自分の人生を予言されていたかのような深い没入を経験したことは一度や二度ではないはずです。\n一度その作品の放つ光に心を射抜かれれば、単なる「鑑賞」という枠を超えた探求が始まります。なぜこの音なのか、なぜこの言葉なのか。アーティストが抱えたであろう孤独や情熱を自分自身のものとして引き受け、音楽を通じて世界、そして他者と深く繋がりたいという切実な願いが、あなたの音楽体験の原動力となっています。",
+        "concept": "音楽に込められた情熱を受け取り、人と世界をつなぐ伝道者。",
+        "features": [
+            "共鳴のリーダー",
+            "人を励ます力がある",
+            "情熱的",
+            "面倒見が良い",
+            "空気を温める",
+            "理想を語れる",
+            "巻き込み力が高い",
+            "他者理解が深い",
+            "使命感が強い",
+            "心を動かす人",
+            "コーラス映えする",
+            "エモいサビに強い",
+            "メッセージソング適性",
+            "高揚感の演出家",
+            "歌で場を一つにする"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Kendrick Lamar",
+                "title": "Alright",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Marvin Gaye",
+                "title": "What's Going On",
+                "image_url": null
+            },
+            {
+                "artist": "Coldplay",
+                "title": "Fix You",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "RADWIMPS",
+                "title": "正解",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/f1/62/aaf16249-0d92-763a-5a78-65ea3ac568d2/24UMGIM04362.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "宇多田ヒカル",
+                "title": "道",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/c7/f7/33c7f769-589b-9c48-fe2f-e2d0a4781ec4/16UMGIM59612.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Vaundy",
+                "title": "僕らの季節",
+                "image_url": null
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは曲に込められた感情やメッセージを敏感に受け取り、それを周囲にも伝えたくなるリスナーです。一人で閉じて味わうより、誰かと気持ちを共有できる作品に強く惹かれます。歌詞やメロディの中にある励ましや願いを自然に受け取り、それを自分の中だけに留めておけません。音楽を通して人とつながり、感情を循環させていくタイプです。",
+            "creator": "クリエイターとしては、人の心を動かすことが制作の中心にあります。聴き手がどこで救われるか、どこで前を向けるかを考えながら、熱量のある作品へ仕上げていきます。自分のためだけの表現に終わらず、誰かの背中を押すための言葉や旋律を選べるのが強みです。メッセージ性がありながら押しつけになりにくく、温度のある作品を作れるタイプです。"
+        },
+        "compatibility": null
+    },
+    {
+        "type": "ENFP",
+        "image": "./data/type_characters/enfp.png",
+        "name": "探検隊長",
+        "quote": "「僕のことを夢想家だと言うかもしれない。でも、僕一人じゃないんだ」 — John Lennon \"Imagine\"",
+        "introduction": "あなたにとって音楽とは、予測不能なセレンディピティ（偶然の出会い）へのパスポートです。予定調和や敷かれたレールを嫌い、新しいビートや耳新しいメロディと「対峙」する瞬間、あなたの心は最も躍動します。音楽は、絶え間なく変化するあなたの感情を解き放ち、世界とあなたを繋ぐための最も自由でスリリングな冒険の手段なのです。",
+        "subtitle": "未知なる響きを求めて",
+        "subtitle_text": "なぜこれほどまでに音楽に惹かれるのか。それは、まだ見ぬ感情や未知の世界観を「探求」し、そこに広がる無限の可能性に「没入」するためです。未知のコード進行や新しいサウンドスケープに触れたとき、あなたの好奇心は最高潮に達します。音楽という果てしない海へ飛び込み、直感の赴くままに音脈を探ることは、あなた自身のアイデンティティを拡張し、魂の解像度を高める作業に他なりません。",
+        "concept": "未知の感情と可能性へ飛び込む自由な冒険者。",
+        "features": [
+            "自由人",
+            "発想が奔放",
+            "好奇心旺盛",
+            "感情表現が豊か",
+            "人懐っこい",
+            "直感で動く",
+            "熱しやすい",
+            "可能性を信じる",
+            "ムードメーカー",
+            "ときめきに忠実",
+            "カラフルな音像志向",
+            "フェス適性が高い",
+            "シンガロング体質",
+            "多幸感サウンド好き",
+            "フックに強く反応する"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "David Bowie",
+                "title": "Space Oddity",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/d7/ac/1fd7ac86-48f1-b786-9d7e-2fa6da5825e1/190295994068.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Coldplay",
+                "title": "Viva La Vida",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/bc/3d/56bc3d9c-0a4a-0466-643e-eb9bd748e8bf/190295978037.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "The Weeknd",
+                "title": "Blinding Lights",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/e1/67/03e167d6-ee05-eb32-55e9-c5040f55a8bf/20UMGIM21166.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "藤井風",
+                "title": "きらり",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d6/75/4f/d6754fcb-b2e8-db66-b51f-8b142ac75132/21UMGIM23568.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Ado",
+                "title": "新時代",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d4/bf/da/d4bfda5d-b92c-b27f-2777-0716fc5b12b2/22UMGIM74128.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Vaundy",
+                "title": "東京フラッシュ",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/89/00/09890002-b2de-3637-39b2-f6c2d34d0e93/197189854859.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは未知の音楽に飛び込むことを楽しめるリスナーです。ジャンルや国、定番かどうかにこだわらず、自分の直感が面白いと感じた方向へどんどん進みます。誰も知らない原石のような曲を見つける喜びが大きく、発見そのものが音楽体験の中心になっています。幅広く聴いていても雑にならず、出会った作品を自分なりの物語でつなぎ直していけるタイプです。",
+            "creator": "クリエイターとしては、型を壊すことを怖がらず、異なる要素を大胆につないで新しい表現を作ります。ジャンルの相性を考えすぎるより、面白さのある組み合わせを信じて前へ進むので、作品には新鮮な空気が生まれます。勢いと発想力がそのまま魅力になり、予測不能なのに惹きつけられる表現へつながります。自由で開かれた創造性を持つタイプです。"
+        },
+        "compatibility": {
+            "highest": "流行モンスター - 共に「ジャンルを飛び越える好奇心」と「シェアした瞬間の熱狂的な伝染力」を持ち、最強の相乗効果を生み出すため。",
+            "surprising": "冷血プロデューサー - 探検隊長の「飽きっぽさ」を冷血プロデューサーの「圧倒的な集中力での深掘り」が補完し、探検隊長が発見した原石を冷血プロデューサーが磨き上げる関係になるため。",
+            "worst": "音楽の番人 - 探検隊長の「次々と新しいものへ興味が移る」姿勢が、音楽の番人の「変わることのない完璧なライブラリを守る」姿勢と真っ向から対立するため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "ESFP",
+                "image": "./data/type_characters/esfp.png",
+                "name": "流行モンスター"
+            },
+            "surprising": {
+                "type": "INTJ",
+                "image": "./data/type_characters/intj.png",
+                "name": "冷血プロデューサー"
+            },
+            "worst": {
+                "type": "ISTJ",
+                "image": "./data/type_characters/istj.png",
+                "name": "音楽の番人"
+            }
+        }
+    },
+    {
+        "type": "ISFJ",
+        "image": "./data/type_characters/isfj.png",
+        "name": "エモ・キーパー",
+        "quote": "「これまでの人生で思い出す場所がある… 私の人生において、そのすべてを愛してきた」 — The Beatles \"In My Life\" より",
+        "introduction": "あなたにとって音楽とは、使い捨ての消費物ではなく、過ぎ去った日々のページに挟む「人生の栞（しおり）」です。なぜこれほどまでに音に惹かれるのか。それは、音楽が記憶を鮮明に蘇らせ、感情の機微を記録し続けるための最も確実な手段だからです。あなたの人生という物語において、音楽は過去と現在を繋ぎ、心の奥底で鳴り続けるかけがえのないサウンドトラックなのです。",
+        "subtitle": "感情のアーカイブ",
+        "subtitle_text": "静寂の中で一つのメロディと深く「対峙」し、自身の経験と重なる共感性の高い歌詞の世界へ「没入」する。あなたは音楽を通じて、自らの内面にある温かい記憶や、他者への慈しみの感情を「探求」しています。それはまるで、感情の解像度を極限まで高め、一つ一つの音符に大切な記憶を封じ込める作業です。あなたが音楽を求めるのは、そこに嘘のない感情の居場所があるからに他なりません。",
+        "concept": "優しい記憶と本音をそっと抱きしめる共感者。",
+        "features": [
+            "支え手",
+            "思いやりが深い",
+            "誠実",
+            "控えめな優しさ",
+            "守備力が高い",
+            "献身的",
+            "空気を整える",
+            "安心感がある",
+            "丁寧",
+            "縁の下の力持ち",
+            "ハーモニー重視",
+            "アコースティック適性",
+            "包み込む音が好き",
+            "温度感のある耳",
+            "バラード耐性が高い"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "The Beatles",
+                "title": "In My Life",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c8/d3/12/c8d31247-3300-943a-f1bb-2bf42754df84/VHCD-1037.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Norah Jones",
+                "title": "Don't Know Why",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/e8/60/6ee860c1-dd50-eb8a-cbbe-a1274f69ad59/13UABIM49412.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Carole King",
+                "title": "You've Got a Friend",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "宇多田ヒカル",
+                "title": "First Love",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d1/a6/81/d1a681b9-aa68-6148-5a50-69fd4c95cc37/00602567241966.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "スピッツ",
+                "title": "ロビンソン",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/26/3b/9a263bc6-cebd-04df-c362-2a0868d277dd/00602557728743.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "星野源",
+                "title": "くだらないの中に",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/68/95/f7/6895f77d-15fb-56ea-48a6-b549de8d9137/VEATP-32398.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは思い出や感情に寄り添う音楽を丁寧に選ぶリスナーです。メロディや歌詞の温度に敏感で、その曲がどんな場面で心を支えてくれるかまで自然に想像できます。安心できる曲を長く大切にする傾向があり、音楽をただ消費するのではなく、生活の記憶と一緒に静かに保存していきます。やさしさと継続性を持って音楽と付き合うタイプです。",
+            "creator": "クリエイターとしては、派手さよりも包容力を重視し、聴く人を落ち着かせる旋律や言葉を丁寧に置いていきます。大きな声で主張しなくても伝わるやさしさがあり、誰かの疲れた心へそっと触れるような作品を作れます。生活の風景に自然となじみ、ふとした時に思い出されるような静かな強さを持つ作品になりやすいです。穏やかですが印象の残る表現者です。"
+        },
+        "compatibility": {
+            "highest": "マザーテレサ - 共に音楽を「日々の思い出や内面に寄り添うもの」として扱い、押し付けがましくない静かな共有スタイルが完璧にマッチするため。",
+            "surprising": "カリスマ案内人 - エモ・キーパーが好む「普遍的な名曲」は、カリスマ案内人が評価する「時代が求めるアンセム」と重なることが多く、一緒にプレイリストを楽しめるため。",
+            "worst": "爆速ディガー - エモ・キーパーが求める「安心感とノスタルジー」に対し、爆速ディガーは「理解不能なノイズや聴き慣れない不協和音」を押し付けてくるため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "INFJ",
+                "image": "./data/type_characters/infj.png",
+                "name": "マザーテレサ"
+            },
+            "surprising": {
+                "type": "ESTJ",
+                "image": "./data/type_characters/estj.png",
+                "name": "カリスマ案内人"
+            },
+            "worst": {
+                "type": "ENTP",
+                "image": "./data/type_characters/entp.png",
+                "name": "爆速ディガー"
+            }
+        }
+    },
+    {
+        "type": "ISFP",
+        "image": "./data/type_characters/isfp.png",
+        "name": "放浪者",
+        "quote": "「音楽の素晴らしいところは、それに打ちのめされても痛みを感じないことだ」 — Bob Marley \"Trench Town Rock\" より",
+        "introduction": "あなたにとって音楽とは、理屈ではなく「今、この瞬間の感情」を鮮やかに彩るための水彩絵の具です。複雑な理論よりも、耳に届いた瞬間の直感と「対峙」し、心の波長と完全にシンクロする旋律を何よりも大切にします。音楽は、絶えず移ろいゆくあなたの感情を肯定し、ありのままの自分を表現するためのキャンバスなのです。",
+        "subtitle": "瞬間の共鳴を求めて",
+        "subtitle_text": "なぜこれほどまでに音楽に惹かれるのか。それは、言葉にできない心の揺らぎを「探求」し、その日の気分に寄り添う心地よいサウンドスケープへ深く「没入」するためです。過去への執着や未来への不安ではなく、「今、ここにある自分」の輪郭を確かめるように音を浴びる。それが、あなたの持つ純粋な音楽的アイデンティティです。",
+        "concept": "今の気分に寄り添う音で自分を確かめる感覚派。",
+        "features": [
+            "感性派",
+            "美意識が鋭い",
+            "静かな個性",
+            "今この瞬間を大切にする",
+            "言葉より表現で伝える",
+            "柔らかな反骨心",
+            "感覚優位",
+            "自然体",
+            "繊細な自由人",
+            "余白を愛する人",
+            "トーン重視の耳",
+            "質感フェチ",
+            "インディー適性",
+            "メロウグルーヴ志向",
+            "サウンドで自己表現する"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Maroon 5",
+                "title": "Sunday Morning",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/12/fe/eb12fe62-1e28-ebfd-0daa-f9aa66bbb882/12UMGIM15818.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Khalid",
+                "title": "Location",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/d1/c6/d2d1c6d0-57d0-139c-f930-aeee596cdf84/886446057019.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Corinne Bailey Rae",
+                "title": "Put Your Records On",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/76/db/e8/76dbe8bd-fd8f-b3f7-c6a8-26f401305eb0/13UABIM52293.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "キリンジ",
+                "title": "エイリアンズ",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/f3/16/17f316a9-bd7f-77ea-8b1a-f481cfdf2024/4547366790771.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "くるり",
+                "title": "琥珀色の街、上海蟹の朝",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/49/9c/44/499c440a-cc9b-8155-9ff5-5436a51dc3b5/VEATP-33594.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "あいみょん",
+                "title": "あのね、",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/bd/6b/31bd6bc7-bc43-ec04-5fce-2ca2f87c999a/5054197896880.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは理屈より先に耳と身体で好き嫌いを判断するリスナーです。自分に合う空気感を見抜くのが早く、無理なく自然体で音楽を楽しめます。難しい説明がなくても、その曲が今の自分に合うかどうかを感覚で掴めるため、日常の気分にぴったり寄り添う音楽を見つけるのが上手です。感覚の精度が高く、静かに自分らしい世界を作っていくタイプです。",
+            "creator": "クリエイターとしては、その瞬間の感情や空気の手触りを大切にし、飾りすぎない自然な表現へ落とし込みます。技巧を見せることより、聴く人が無理なく入り込めるメロディや質感を作ることに長けています。作り込みはあっても押しつけがましさがなく、ふとした瞬間に心へ馴染むような柔らかな作品になります。静かな感性の強さを持つタイプです。"
+        },
+        "compatibility": {
+            "highest": "ループ廃人 - 共に「その瞬間の気分」や「直感的な心地よさ」を最優先し、それぞれの楽しみ方に「余白」を残し合えるため。",
+            "surprising": "流行モンスター - 放浪者の「心地よい波間を漂う感覚」と、流行モンスターの「瞬間的な高揚感」は、どちらも「今この瞬間を直感で楽しむ」バイブスが共通しているため。",
+            "worst": "天下取りのギタリスト - 放浪者の「なんとなく今の気分に合う」という直感的なシェアを、天下取りのギタリストは「論理では説明できない感情の揺らぎ」として軽視しがちなため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "INFP",
+                "image": "./data/type_characters/infp.png",
+                "name": "ループ廃人"
+            },
+            "surprising": {
+                "type": "ESFP",
+                "image": "./data/type_characters/esfp.png",
+                "name": "流行モンスター"
+            },
+            "worst": {
+                "type": "ENTJ",
+                "image": "./data/type_characters/entj.png",
+                "name": "天下取りのギタリスト"
+            }
+        }
+    },
+    {
+        "type": "ESFJ",
+        "image": "./data/type_characters/esfj.png",
+        "name": "コンシェルジュ",
+        "quote": "「音楽はそれ自体が一つの世界であり、誰もが理解できる共通言語なのだ」——Stevie Wonder）”Sir Duke”",
+        "introduction": "あなたにとって音楽とは、個人の孤独を癒すだけでなく、人々の心と繋がり、同じ温度の熱狂へ「没入」するための最強のツールです。今アツいトレンドの最前線にあるサウンドと真っ先に「対峙」し、どうすればこの興奮と喜びを仲間と分かち合えるかという一体感を常に「探求」しています。音楽は、あなたと周囲の人々を繋ぐ不可欠な共通言語であり、世界を明るく照らすためのエネルギー源なのです。",
+        "subtitle": "共感のハーモニーを求めて",
+        "subtitle_text": "なぜこれほどまでに音楽に惹かれるのか。それは、一つのメロディや素晴らしい歌詞を通して、他者と完全に感情がシンクロする瞬間のカタルシスを知っているからです。「あの曲のあのフレーズ、最高だよね！」と語り合う時、あなたの心は最も躍動します。難解な理論や複雑なポリリズムよりも、誰もが自然と身体を揺らし、笑顔になれるような「開かれた音楽体験」を心から愛しています。",
+        "concept": "みんなの感情をひとつにする音楽を愛するムードメーカー。",
+        "features": [
+            "世話役",
+            "共感でつなぐ",
+            "協調性が高い",
+            "気配り上手",
+            "温かい",
+            "安心感を与える",
+            "人を喜ばせたい",
+            "社交的",
+            "空気を読むのが得意",
+            "輪の中心を守る人",
+            "王道ヒット適性",
+            "みんなで歌える曲が好き",
+            "ハッピーなリズム体質",
+            "サビ重視のリスナー",
+            "多人数プレイリスト向き"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "ABBA",
+                "title": "Dancing Queen",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Mark Ronson ft. Bruno Mars",
+                "title": "Uptown Funk",
+                "image_url": null
+            },
+            {
+                "artist": "Taylor Swift",
+                "title": "Shake It Off",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/37/ef/95/37ef9529-bff6-d7ca-541c-f6c87c5922b3/886444938808.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "星野源",
+                "title": "恋",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/a2/fd/bda2fd49-c3cc-af75-d435-9d1e57de5759/VEATP-33775.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Vaundy",
+                "title": "怪獣の花唄",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/89/00/09890002-b2de-3637-39b2-f6c2d34d0e93/197189854859.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "YOASOBI",
+                "title": "アイドル",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは場の空気を読みながら、今その場に必要な音楽をすぐに見つけられるリスナーです。自分が楽しいかだけでなく、その曲で周囲がどう動くかまで自然に見えているので、みんなが楽しめる流れを作るのが得意です。音楽を個人の趣味で終わらせず、共有体験として広げていけるところに大きな魅力があります。温度のある選曲ができるタイプです。",
+            "creator": "クリエイターとしては、親しみやすさと熱量を両立させるのが得意です。難解さで差をつけるより、誰もが口ずさめて感情移入できる言葉やメロディで一体感を生み出します。人の気持ちをまとめ、場を明るく動かすアンセムのような作品になりやすく、コミュニティ全体を巻き込む力があります。音楽を通して人をつなぐことに強いタイプです。"
+        },
+        "compatibility": {
+            "highest": "流行モンスター - コンシェルジュが「みんなが楽しめる完璧なプレイリスト」を用意し、流行モンスターが「フロアの中心でその熱狂を爆発させる」という完璧な連携を見せるため。",
+            "surprising": "共感教祖 - 共に「音楽を介して人と人を繋ぎ、温かいコミュニティを形成する」天才同士であり、場を盛り上げるベクトルが同じであるため。",
+            "worst": "地下室のベーシスト - コンシェルジュが大切にする「みんなが知っていること・一体感」を、地下室のベーシストは「表層的なメロディ」として全く評価しないため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "ESFP",
+                "image": "./data/type_characters/esfp.png",
+                "name": "流行モンスター"
+            },
+            "surprising": {
+                "type": "ENFJ",
+                "image": "./data/type_characters/enfj.png",
+                "name": "共感教祖"
+            },
+            "worst": {
+                "type": "INTP",
+                "image": "./data/type_characters/intp.png",
+                "name": "地下室のベーシスト"
+            }
+        }
+    },
+    {
+        "type": "ESFP",
+        "image": "./data/type_characters/esfp.png",
+        "name": "流行モンスター",
+        "quote": "\"Don't stop me now, I'm having such a good time, I'm having a ball.\" （今、僕を止めないでくれ。最高の気分なんだ、心から楽しんでいるんだから） — Queen \"Don't Stop Me Now\" より",
+        "introduction": "あなたにとって音楽とは、理屈や小難しい解釈を抜きにして、「今、この瞬間の最高の気分」を爆発させ、周囲の仲間と共有するための魔法です。鼓膜から飛び込んでくる生のビートと真っ直ぐに「対峙」し、身体が勝手に動き出すような圧倒的なグルーヴへ「没入」する。その瞬間の最高潮の感情と一体感を「探求」することこそが、あなたの音楽体験のすべてです。音楽は、退屈な日常を色鮮やかなダンスフロアに変えるための、最も強力なスイッチなのです。",
+        "subtitle": "高鳴るBPMを求めて",
+        "subtitle_text": "なぜこれほどまでに音楽に惹かれるのか。それは、音楽が持つ「フィジカルなエネルギー」に誰よりも敏感だからです。イントロが鳴った瞬間に鳥肌が立ち、アドレナリンが駆け巡るあの感覚。あなたは小難しい理論や文脈よりも、直感的に「ヤバい」「アツい」と感じる本能的な喜びに突き動かされています。音楽という終わらないパーティーの中で、あなたは常にフロアの中心でスポットライトを浴び、その熱狂を増幅させる存在なのです。",
+        "concept": "本能で熱狂を掴み、場を一気に沸かせる盛り上げ役。",
+        "features": [
+            "エンターテイナー",
+            "陽気",
+            "感情表現が豊か",
+            "場を盛り上げる",
+            "親しみやすい",
+            "今を楽しむ",
+            "人を巻き込む",
+            "反応が素直",
+            "ポジティブ",
+            "華がある",
+            "パーティーチューン体質",
+            "グルーヴ最優先",
+            "ダンサブル志向",
+            "フック即反応型",
+            "ライブ会場の主人公"
+        ],
+        "recommended_songs": [
+            {
+                "artist": "Bruno Mars",
+                "title": "24K Magic",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Dua Lipa",
+                "title": "Levitating",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Queen",
+                "title": "Don't Stop Me Now",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/3e/37/273e37e3-86bf-9420-1917-7f991ee5138b/14UMGIM42223.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Creepy Nuts",
+                "title": "Bling-Bang-Bang-Born",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/81/dc/1281dc28-48e6-5ff7-642d-6cf4d487d9e0/4547366660890.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Ado",
+                "title": "唱",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/e8/82/80e8826c-f877-9a74-0e7b-a142108feda0/23UMGIM92958.rgb.jpg/1000x1000bb.jpg"
+            },
+            {
+                "artist": "Mrs. GREEN APPLE",
+                "title": "青と夏",
+                "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/27/08/3427087f-2d39-4847-9b19-052dd3589014/18UMGIM36633.rgb.jpg/1000x1000bb.jpg"
+            }
+        ],
+        "detailed_description": {
+            "listener": "あなたは最初の一瞬で曲の引力を感じ取り、気分を上げる音にすばやく反応できるリスナーです。イントロの短い時間でテンションやポテンシャルを掴み、難しく考える前に楽しさの中心へ飛び込めます。音楽への反応が素直で早いため、今ほしい高揚感や場を盛り上げる一曲を見つけるのが得意です。感覚の瞬発力が非常に高いタイプです。",
+            "creator": "クリエイターとしては、勢いとキャッチーさを武器にして、聴いた瞬間に身体が動くようなフックを作れます。細かな説明がなくても、サビやリフ、リズムの押し出しで聴き手を一気に巻き込めるのが強みです。理性より体感を優先したエンターテインメント性が高く、ライブでも日常でもすぐ伝わる強さがあります。明るく大きなエネルギーを放つタイプです。"
+        },
+        "compatibility": {
+            "highest": "直感ヒーロー - 共に「理屈を抜きにして、今この瞬間の最高の気分を爆発させる」ことに全振りしているため、選曲のテンポ感が完全に一致するため。",
+            "surprising": "探検隊長 - 流行モンスターの「フロアを掌握する熱狂」に、探検隊長が「未知の新しいアンセム」を次々と投下し、飽きることのない無限のパーティーが続くため。",
+            "worst": "冷血プロデューサー - 流行モンスターの「イントロが長い曲をスキップしてサビだけ消費する聴き方」が、冷血プロデューサーの「一切のスキップを許さずに再生する」という絶対的ルールを破壊するため。"
+        },
+        "compatibility_meta": {
+            "highest": {
+                "type": "ESTP",
+                "image": "./data/type_characters/estp.png",
+                "name": "直感ヒーロー"
+            },
+            "surprising": {
+                "type": "ENFP",
+                "image": "./data/type_characters/enfp.png",
+                "name": "探検隊長"
+            },
+            "worst": {
+                "type": "INTJ",
+                "image": "./data/type_characters/intj.png",
+                "name": "冷血プロデューサー"
+            }
+        }
+    }
+]
