@@ -6,6 +6,9 @@
     },
     {
       "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./get_song_image/tsconfig.json"
     }
   ]
 }
